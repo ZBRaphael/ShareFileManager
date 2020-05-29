@@ -1,0 +1,11 @@
+<resources>
+    <string name="资源管理">ResourceList</string>
+    <string name="uplode">Uplode</string>
+    <string name="app_name">Shared File Manager</string>
+    <string name="recyclerview_fab_example">RecyclerView FAB example</string>
+    <string name="floating_action_menu">Floating Action Menu</string>
+    <string name="lorem_ipsum_large">Document</string>
+    <string name="navigation_drawer_close">Navigation close</string>
+    <string name="host">192.168.1.103</string>
+    <string name="port">5001</string>
+</resources>
